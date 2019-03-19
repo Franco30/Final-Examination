@@ -1,0 +1,8 @@
+2019-03-19T03:32:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\final\wp-content\themes\enfold\config-templatebuilder\avia-shortcodes\columns.php on line 9
+
+2019-03-19T03:33:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\final\wp-includes\l10n.php on line 649
+
+2019-03-19T03:50:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\final\wp-includes\wp-db.php on line 2007
+
+2019-03-19T03:56:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\final\wp-includes\wp-db.php on line 2007
+
